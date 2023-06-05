@@ -1,7 +1,7 @@
 Hi 👋 My name is Aditya Jain
 ============================
 
-Data Science Fellow
+Data Engineer
 -------------------
 
 I've been into professional coding for almost a year.Started as Java coder and now really into data science stuff.
