@@ -1,14 +1,13 @@
 Hi 👋 My name is Aditya Jain
 ============================
 
-Data Engineer
+Data Engineer/Data Analyst/AWS Cloud Engineer
 -------------------
 
 I've been into professional coding for almost a year.Started as Java coder and now really into data science stuff.
 
 * 🌍  I'm based in India
-* 🧠  I'm learning R Programming
-* 🤝  I'm open to collaborating on NLP,AI,ML,IOT,Big Data
+* 🤝  I'm open to collaborating on NLP,AI,ML,IOT,Big Data,GenAI
 
 ### Skills
 
