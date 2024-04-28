@@ -1,7 +1,7 @@
 Hi 👋 My name is Aditya Jain
 ============================
 
-Data Engineer/Data Analyst/AWS Cloud Engineer
+Data Engineer/Data Analyst/AWS Cloud Engineer/ GenAI Developer
 -------------------
 
 I've been into professional coding for almost a year.Started as Java coder and now really into data science stuff.
